@@ -1,0 +1,17 @@
+label { 
+    display: block;
+}
+
+body {
+    background-color: gray;
+}
+
+.container {
+    background-color: #99ccff;
+    margin: 20px auto;
+    max-width: 700px;
+}
+
+.radios label{
+    display: inline;
+}
